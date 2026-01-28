@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+
+}
+
+.midsec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.container {
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  height: 100vh;          
+  background-color: black;
+}
+
+.box {
+  width: 500px;
+  height: px;
+  background-color: lightblue;
+  text-align: center;
+  line-height: 25px;
+  color: red;
+  position: absolute;
+  
+}
+/*
+.container {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}*/
+
